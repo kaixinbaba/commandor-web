@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Commandor">
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M184 58c-16-14-36-22-58-22-51 0-92 41-92 92s41 92 92 92c23 0 44-8 60-23" stroke="#f5efe4" stroke-width="28"/>
+    <path d="m112 88 40 40-40 40" stroke="#ff5a36" stroke-width="24"/>
+  </g>
+</svg>
